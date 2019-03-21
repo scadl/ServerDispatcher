@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\codetyphon\fpc\bin\x86_64-win64\fpc.exe" Date="1163760910"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -vewnhibq &quot;-FiE:\[Works]\[Programming for DesktopPC]\[Lazarus]\SD_Client\lib\x86_64-win64&quot; &quot;-FuE:\[Works]\[Programming for DesktopPC]\[Lazarus]\SD_Client\&quot; &quot;-FUE:\[Works]\[Programming for DesktopPC]\[Lazarus]\SD_Client\lib\x86_64-win64\&quot; -l sd_admin.lpr"/>
+</CONFIG>
