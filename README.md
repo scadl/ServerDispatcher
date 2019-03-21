@@ -4,14 +4,14 @@ This application is written with open source languages FPC and PHP. Itm combines
 ### To use it
 * On client side, (where sitting with monitored servers)
 unpack client and modify config.txt
-
+```
     DB_SERVER: <IP of the server wher to send data>
     SCAN_INTERVAL: <Chcek interval>
     PORT_SCAN:
     <Monitored protocol 1>:<Monitored port 1>
     <Monitored protocol 1>:<Monitored port 1>
     <And so on...>
-    
+```    
      
 * On server side (where db and php server runes)
 Modify the sd_server.php, lines 7-11 - it's your mysql db params
