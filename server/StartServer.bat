@@ -1,0 +1,1 @@
+E:\xampp_polygon\php\php.exe sd_server.php
