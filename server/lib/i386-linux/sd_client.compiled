@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="/usr/bin/fpc" Date="1505429304"/>
-  <Params Value=" -MObjFPC -Scghi -CirotR -O3 -g -gl -Xg -l -vewnhibq &quot;-Fi/mnt/hgfs/[Works]/[Programming for DesktopPC]/[Lazarus]/SD_Client/lib/i386-linux&quot; &quot;-Fu/mnt/hgfs/[Works]/[Programming for DesktopPC]/[Lazarus]/SD_Client/&quot; &quot;-FU/mnt/hgfs/[Works]/[Programming for DesktopPC]/[Lazarus]/SD_Client/lib/i386-linux/&quot; sd_client.lpr"/>
-</CONFIG>
